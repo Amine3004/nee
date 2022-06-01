@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0x1ddb114afC929D8C653FE75192E0DAb9f6133e62",
+  "SCAN_LINK": "https://testnet.bscscan.com//token/0x1ddb114afC929D8C653FE75192E0DAb9f6133e62",
+  "NETWORK": {
+    "NAME": "BNB Smart Chain Testnet",
+    "SYMBOL": "tBNB",
+    "ID": 97
+  },
+  "NFT_NAME": "Cheetagang",
+  "SYMBOL": "Cheetagang",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 236806,
+  "MARKETPLACE": "Opeansea",
+  "SHOW_BACKGROUND": true
+}
